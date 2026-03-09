@@ -12,7 +12,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
 
-    <name>Example of basic Maven project to integrate with SonarQube</name>
+    <name>mvn-sonarcode--main</name>
 
     <dependencies>
         <dependency>
